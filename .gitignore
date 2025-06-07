@@ -1,0 +1,18 @@
+# Sanal ortam
+venv/
+
+# IDE veya sistem dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python paket dizini
+*.egg-info/
+
+# Instagram çerez dosyası
+cookies.txt
+
+# (Eğer istemiyorsan) .env, configs
+.env
+.vscode/

@@ -1,0 +1,1 @@
+Bu Anahtar; karşı tarafın konumuna göre belirlenen, ayarlanan bir anahtar değil, tamamen sabit olan, kurallarını kendisi belirleyip karşı tarafı kendi kurallarına uyduran bir Anahtardır.
